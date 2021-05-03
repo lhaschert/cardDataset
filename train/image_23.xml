@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image_23.jpg</filename>
+	<path>C:\Users\lhasc\Documents\datasets\Cards\train\image_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Card</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>142</ymin>
+			<xmax>617</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>
